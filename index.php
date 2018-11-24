@@ -46,7 +46,7 @@
 </head>
 	<center><h2>INPUT DATA</h2>
 
-	<title>Simple CRUD by TUTORIALWEB.NET</title>
+	<title>TOKO Gemilang</title>
 </head>
 <body>
 	<CENTER><h2>TOKO GEMILANG</h2></CENTER>
