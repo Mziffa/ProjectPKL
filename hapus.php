@@ -26,7 +26,7 @@ if(isset($_GET['id'])) {
 		
 	}else{
 		
-		echo 'Gagal menghapus data ! ';		//Pesan jika proses hapus gagal
+		echo 'Gagal menghapus data, Coba ulang kembali ! ';		//Pesan jika proses hapus gagal
 		echo '<a href="index.php">Kembali</a>';	//membuat Link untuk kembali ke halaman beranda
 	
 	}
